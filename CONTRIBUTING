@@ -1,0 +1,28 @@
+Creating a good pull request:
+
+  Before creating a pull request into the main branch, you should first complete a couple of steps.
+  1. Pull main branch into your development branch. This makes sure that merge conflicts are never handled on the main branch and are instead handled within the development branch.
+  2. Add a detailed description of the features when creating your request. This makes it easier for reviewers to locate changes to inspect before completing the request.
+  3. Be open to your request being denied. A denied pull request means that the reviewer is performing their due dilligence. Be receptive to any comments as to why the request was denied.
+  
+  For guidance in creating these pull requests, please view the following links:
+  
+  Creating a commit with multiple authors:
+  https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors
+  
+  Creating a pull request:
+  https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
+  
+  
+Code of Conduct:
+  
+  When contributing to this repository, please remember that this is a collaborative effort. There have been developers before you and will be developers who come after. Refrain from any rude or derrogatory language within a pull request comment or description.
+  
+  When in doubt, refer to the Aggie Honor Code:
+  An Aggie does not lie, cheat or steal or tolerate those who do.
+  
+  Using external or already existing code is fine, but be sure to cite your references within the README, especially when using 3rd party libraries or plugins (see sBert in README).
+
+
+All relevant internal technical documentation resides within this repositorie's README file. 
+  
